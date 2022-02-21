@@ -1,0 +1,24 @@
+{
+    "name": "element119/module-reset-bookmark-ui",
+    "type": "magento2-module",
+    "description": "A Magento 2 module that allows admins to reset their bookmark UI.",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Kiel Pykett",
+            "email": "pykettk@gmail.com"
+        }
+    ],
+    "require": {
+        "magento/module-ui": "^101.2",
+        "magento/module-user": "^101.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Element119\\ResetBookmarkUi\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
