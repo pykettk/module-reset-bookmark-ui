@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © element119. All rights reserved.
+ * See LICENCE.txt for licence details.
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceBlock name="user">
+            <arguments>
+                <argument name="template" xsi:type="string">
+                    Element119_ResetBookmarkUi::account-dropdown.phtml
+                </argument>
+            </arguments>
+        </referenceBlock>
+    </body>
+</page>
