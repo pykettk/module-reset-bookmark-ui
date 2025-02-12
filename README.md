@@ -59,13 +59,3 @@ php bin/magento setup:upgrade
 ![button](https://user-images.githubusercontent.com/40261741/155242543-210777cd-f031-4b6c-9b6a-767678f96f33.png)
 
 ![success](https://user-images.githubusercontent.com/40261741/155242742-c4a77762-0791-4748-b72b-2a443e29dd30.png)
-
----
-
-<div align="center">
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/pykettk)
-
-For those that want to support this project.
-
-</div>
